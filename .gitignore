@@ -3,6 +3,7 @@ npm-debug.log*
 
 # project dependencies
 node_modules
+package-lock.json
 
 # macOS folder properties
 .DS_Store
