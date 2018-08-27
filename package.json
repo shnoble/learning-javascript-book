@@ -1,7 +1,7 @@
 {
   "name": "study",
   "version": "1.0.0",
-  "description": "",
+  "description": "In this chapter we're learning about Git and other development tools.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,5 +13,13 @@
   },
   "devDependencies": {
     "gulp": "^3.9.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shnoble/learning-javascript-book.git"
+  },
+  "bugs": {
+    "url": "https://github.com/shnoble/learning-javascript-book/issues"
+  },
+  "homepage": "https://github.com/shnoble/learning-javascript-book#readme"
 }
