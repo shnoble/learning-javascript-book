@@ -16,7 +16,7 @@ $(document).ready(function() {
 
         let totalBet = rand(1, funds);
         console.log("totalBet: " + totalBet);
-
+ 
         if(totalBet === 7) {
             totalBet = funds;
             bets.heart = totalBet;
